@@ -1,0 +1,17 @@
+.jumbotron {
+  background-image: url("../images/overview_bg.jpg");
+  background-size: cover;
+}
+
+.avatar {
+  height: auto;
+  width: 150px;
+}
+
+.a-dark {
+  color: #20aaff !important;
+}
+
+.a-dark:hover {
+  color: #2076b3 !important;
+}
